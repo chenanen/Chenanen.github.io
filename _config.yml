@@ -87,6 +87,7 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "人生时间", href: "https://ol.woobx.cn/tool/lifecount?d=MjAxMS0xMC0wMw" }
+    { title: "人生时间", href: "https://ol.woobx.cn/tool/lifecount?d=MjAxMS0xMC0wMw" 
+    }
     { title: " B站", href: "https://space.bilibili.com/3461566661921155/" }
   ]
